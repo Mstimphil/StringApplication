@@ -14,11 +14,10 @@ public class VariableApp {
 
         //REPEAT FOR NEXT EXERCISE
 
-   String word;
-        word = getColor("blue";
-    }
-    int = 2025
-    char = "L"
+        String myColor = "blue";
+        int myInt = "2025";
+
+
 
 }
 
