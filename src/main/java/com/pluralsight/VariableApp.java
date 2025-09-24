@@ -22,15 +22,18 @@ public class VariableApp {
         String word1 = "Hello";
         String word2 = "World";
         String greeting;
-        greeting = word1 = "";
-        word2 = "!";
-        System.out.println(greeting);
 
+        System.out.println(word1 +"" +  word2);
         System.out.println(myColor);
         System.out.println(haspets);
         System.out.println(year);
         System.out.println(middle);
-
+//
+        int daysoftheweek = 7;
+        float price = 4.99f;
+        char favorite = 'S';
+        boolean israining = true;
+        System.out.println(daysoftheweek + 7);
 
     }
 }
