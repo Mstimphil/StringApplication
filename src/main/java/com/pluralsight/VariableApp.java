@@ -14,7 +14,9 @@ public class VariableApp {
 
         //REPEAT FOR NEXT EXERCISE
 
-   String word= getColor("blue";}
+   String word;
+        word = getColor("blue";
+    }
     int = 2025
     char = "L"
 
