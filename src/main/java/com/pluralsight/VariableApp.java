@@ -15,9 +15,26 @@ public class VariableApp {
         //REPEAT FOR NEXT EXERCISE
 
         String myColor = "blue";
-        int myInt = "2025";
+        int year = "2025";
+        char middle = 'L';
+         // hold a Boolean
+         boolean haspets;
+                 String word1 = "Hello";
+        String word2 = "World";
+         String greeting;
+        greeting = word1 = ""; word2 = "!";
+        System.out.println(greeting);
+
+        System.out.println(myColor);
+        System.out.println(haspets);
+        System.out.println(year);
+        System.out.println(middle);
 
 
 
-}
+
+
+
+
+    }
 
